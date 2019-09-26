@@ -1,91 +1,62 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Djavid Gabibiyan's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Djavid Gabibiyan
+Software engineer, QA automation.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:djavidoff@gmail.com">djavidoff@gmail.com</a>
+| <span>(+998) 94-641-13-77</span>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Working with an awesome team to make Evolution of [Dash](https://www.dash.org) happen.
 
-### Specialized in
+## Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Programming Languages`
 
+- Experienced in Javascript, Python and Java.
+- Experience in developement of a full-stack applications.
+- Experience in Android developement.
+- Good understanding of Object-oriented and Functional programming.
+- Familar with data modeling languages: JSON, YAML, XML.
 
-### Research interests
+`QA`
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Experience in UI and backend testing.
+- Experience in using various load testing tools (JMeter, Locust).
 
+`DevOps & Mastering Tools`
+
+- Experience with Docker and Jenkins.
+- Experience with troubleshooting tools such as PDB, JVVM, etc.
+- Experience with Git, Mercurial and SVN version control systems.
+- Familiar with a variety of documentation tools: LATEX, Markdown, ReStructured Text, etc.
+
+## Work Experience
+
+`Jan. 2018 - Now`
+__[Dash](https://www.dash.org/) (Dash Core Group)__, remote.
+
+`Dec. 2015 - Jun. 2018`
+__Lazada TechHub, Lazada Express Logistics (Alibaba Group)__, Ho Chi Minh City.
+
+`Jun. 2013 - Jun. 2015`
+__ShazzleMail Inc.__, Tashkent.
+
+`Feb. 2010 - Jun. 2013`
+__Sunet Technology__, Tashkent.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sept. 2007 - June 2011`
+__Tashkent University of Information Technologies, Tashkent.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- B.S. in Telecommunications
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: September 2019 -->
