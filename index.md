@@ -53,8 +53,8 @@ __Sunet Technology__, Tashkent.
 ## Education
 
 `Sept. 2007 - June 2011`
-__Tashkent University of Information Technologies, Tashkent.__
 
+- __Tashkent University of Information Technologies__, Tashkent.
 - B.S. in Telecommunications
 
 <!-- ### Footer
