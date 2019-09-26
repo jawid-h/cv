@@ -16,7 +16,7 @@ Working with an awesome team to make Evolution of [Dash](https://www.dash.org) h
 
 ## Skills
 
-### Programming Languages
+`Programming`
 
 - Experienced in Javascript, Python and Java.
 - Experience in developement of a full-stack applications.
@@ -24,12 +24,12 @@ Working with an awesome team to make Evolution of [Dash](https://www.dash.org) h
 - Good understanding of Object-oriented and Functional programming.
 - Familar with data modeling languages: JSON, YAML, XML.
 
-### QA
+`QA`
 
 - Experience in UI and backend testing.
 - Experience in using various load testing tools (JMeter, Locust).
 
-### DevOps & Mastering Tools
+`DevOps & Tools`
 
 - Experience with Docker and Jenkins.
 - Experience with troubleshooting tools such as PDB, JVVM, etc.
