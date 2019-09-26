@@ -74,7 +74,7 @@ code {
 	font-size: 60%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #747474;
 }
 
 p code {
@@ -114,7 +114,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: 'Ubuntu Mono',Cousine,Verdana,sans-serif;
 	width: 65%;
 }
 
